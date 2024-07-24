@@ -1,6 +1,6 @@
-# GitHub dark syntax theme
+# GitHub Dark Theme Syntax Highlighting CSS
 
-[![NPM version](http://img.shields.io/npm/v/github-syntax-dark.svg)](https://www.npmjs.org/package/github-syntax-dark)
+[![NPM version](https://img.shields.io/npm/v/github-syntax-dark.svg)](https:(npmjs.org/package/github-syntax-dark)
 
 > The CSS dark syntax theme for GitHub
 
